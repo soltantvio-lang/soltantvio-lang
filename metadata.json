@@ -1,0 +1,6 @@
+{
+  "name": "FIT MAX | فیت مکس",
+  "description": "پلتفرم هوشمند، علمی و تخصصی برنامه‌ریزی تمرینی، مربی AI و آموزش‌های فیت مکس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
